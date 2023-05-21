@@ -10,7 +10,7 @@ Located in a folder named "Second_task" and can be initialized from the terminal
 
 ## React Project 
 
-In terminal use npm install toinstall all the pacakages
+In terminal use npm install to install all the pacakages
 
 ### `npm start`
 
